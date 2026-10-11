@@ -6622,3 +6622,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-intergovernmental-authority-development/
 - **Head of Department – ICT & Engineering – Computer Science** at Zetech University (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-department-ict-engineering-computer-science-zetech-university/
+
+## 2026-10-11 08:08 UTC — 4 new job(s)
+
+- **Career Opportunity: Principal - Internal Audit (Kenya, Nigeria, Uganda, Tanzania) at Cellulant (Nairobi, Kenya)** at Vedastus Watosha (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/career-opportunity-principal-internal-audit-kenya-nigeria-uganda-tanzania-at-cellulant-nairobi-kenya-gmgjk8
+- **Career Opportunity: Internship - Data Entry, Finance & Accounting at Sauti Contact Center LLC (Nairobi, Kenya)** at Vedastus Watosha (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/career-opportunity-internship-data-entry-finance-accounting-at-sauti-contact-center-llc-nairobi-kenya-9k86x0
+- **AI Engineering Intern** at Agentrixx (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-engineering-intern-5p482n
+- **Junior School Teacher** at vision4kids (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-school-teacher-6q642p

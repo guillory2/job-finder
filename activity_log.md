@@ -6633,3 +6633,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/ai-engineering-intern-5p482n
 - **Junior School Teacher** at vision4kids (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/junior-school-teacher-6q642p
+
+## 2026-10-12 08:22 UTC — 4 new job(s)
+
+- **Software Tester / QA Engineer** at Vellmont Advisory Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-tester-qa-engineer
+- **Internal Auditor (ICT)** at Platcorp Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/internal-auditor-ict-platcorp-group
+- **Senior Backend Engineer – Mobility (12 month FTC)** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-backend-engineer-mobility-12-month-ftc-m-kopa-solar/
+- **Engineer** at Energy Environment & Engineering Alliance (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/engineer-6q64gg

@@ -6644,3 +6644,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-backend-engineer-mobility-12-month-ftc-m-kopa-solar/
 - **Engineer** at Energy Environment & Engineering Alliance (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/engineer-6q64gg
+
+## 2026-10-12 19:36 UTC — 1 new job(s)
+
+- **DevOps Engineer – Cloud Infrastructure & Automation** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-cloud-infrastructure-automation-cdl-human-resouce

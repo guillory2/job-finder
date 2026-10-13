@@ -6649,3 +6649,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **DevOps Engineer – Cloud Infrastructure & Automation** at CDL Human Resource (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/devops-engineer-cloud-infrastructure-automation-cdl-human-resouce
+
+## 2026-10-13 08:49 UTC — 5 new job(s)
+
+- **Lecturer - Software Engineering and Systems Design** at Technical University of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lecturer-software-engineering-and-systems-design-technical-university-of-kenya
+- **ICT Officer Intern** at Kipsinende Technical Training Institute-KSTTI (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-intern-kipsinende-technical-training-institute-kstti
+- **Retail Underwriting Analyst** at Liberty & Heritage Insurance (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/retail-underwriting-analyst-gmgk9q
+- **Senior Android Developer - Kotlin Multiplatform & AI Coding** at M365Consult (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-android-developer-kotlin-multiplatform-ai-coding-2kr20k
+- **Application Support Engineer - DevOps** at LanceSoft Middle East (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/application-support-engineer-devops-z84qpx

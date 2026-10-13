@@ -6662,3 +6662,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-android-developer-kotlin-multiplatform-ai-coding-2kr20k
 - **Application Support Engineer - DevOps** at LanceSoft Middle East (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/application-support-engineer-devops-z84qpx
+
+## 2026-10-13 17:21 UTC — 1 new job(s)
+
+- **Instructors** at Strathmore University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/instructors-strathmore-university/

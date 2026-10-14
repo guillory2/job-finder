@@ -6683,3 +6683,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/teacher-ict-pharo-school-nairobi
 - **ICT Trainer** at Missions of Hope International (MOHI) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-trainer-missions-of-hope-international-mohi
+
+## 2026-10-14 19:56 UTC — 1 new job(s)
+
+- **Business Conservation Analyst** at Madison Group Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-conservation-analyst-madison-group-limited/

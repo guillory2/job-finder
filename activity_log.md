@@ -6674,3 +6674,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/hr-data-digital-transformation-analyst-m-f-agl-africa-global-logistics
 - **Data Analyst-Real Estate&Revenue** at CDL Human Resource (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-analyst-real-estate-revenue-cdl-human-resouce
+
+## 2026-10-14 14:52 UTC — 3 new job(s)
+
+- **Teacher Interns - ICT/Digital Literacy** at Pharo School Nairobi (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/teacher-interns-ict-digital-literacy-pharo-school-nairobi
+- **Teacher - ICT** at Pharo School Nairobi (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/teacher-ict-pharo-school-nairobi
+- **ICT Trainer** at Missions of Hope International (MOHI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-trainer-missions-of-hope-international-mohi

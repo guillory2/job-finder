@@ -6667,3 +6667,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Instructors** at Strathmore University (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/instructors-strathmore-university/
+
+## 2026-10-14 09:13 UTC — 2 new job(s)
+
+- **HR Data & Digital Transformation Analyst M/F** at AGL- Africa Global Logistics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/hr-data-digital-transformation-analyst-m-f-agl-africa-global-logistics
+- **Data Analyst-Real Estate&Revenue** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-real-estate-revenue-cdl-human-resouce

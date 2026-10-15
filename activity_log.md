@@ -6688,3 +6688,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Business Conservation Analyst** at Madison Group Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-conservation-analyst-madison-group-limited/
+
+## 2026-10-15 08:46 UTC — 3 new job(s)
+
+- **Senior Data Engineer( DataBricks & Snowflake)** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-engineer-databricks-snowflake-andishi/
+- **Fish Processing Plant Supervisor** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/fish-processing-plant-supervisor-victory-farms/
+- **Warehouse Assistant** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/warehouse-assistant-victory-farms-2/

@@ -6697,3 +6697,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/fish-processing-plant-supervisor-victory-farms/
 - **Warehouse Assistant** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/warehouse-assistant-victory-farms-2/
+
+## 2026-10-15 14:38 UTC — 4 new job(s)
+
+- **Lead Analyst - Data Operations** at Sun King (Formerly Greenlight Planet) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-analyst-data-operations-greenlight-planet-1
+- **ICT Security Manager** at Tower Sacco (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-security-manager-tower-sacco
+- **Intern - ICT** at University of Embu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/intern-ict-university-of-embu
+- **Information Security Lead** at BURN (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-security-lead-burn/

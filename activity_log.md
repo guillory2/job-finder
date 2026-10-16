@@ -6723,3 +6723,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ssa-ke-support-specialist-dhl/
 - **Branch Assistants** at Victory Farms – 10 Positions (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/branch-assistants-at-victory-farms-10-positions/
+
+## 2026-10-16 19:13 UTC — 1 new job(s)
+
+- **ICT Intern** at Micro Enterprises Support Programme Trust (MESPT) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-micro-enterprises-support-programme-trust-mespt-1

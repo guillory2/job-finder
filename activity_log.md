@@ -6708,3 +6708,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/intern-ict-university-of-embu
 - **Information Security Lead** at BURN (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-security-lead-burn/
+
+## 2026-10-16 08:41 UTC — 6 new job(s)
+
+- **Agricultural R&D Manager (Fixed-Term)** at One Acre Fund (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/agricultural-rd-manager-fixed-term-one-acre-fund/
+- **Submit CVs – Latest Recruitment** at Tower Sacco (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-tower-sacco-4/
+- **Internal IT Auditor** at Virtual Pay (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/internal-auditor-virtual-pay/
+- **Submit CVs – New Recruitment** at Daystar University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-daystar-university/
+- **SSA KE – IT Support Specialist** at DHL (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ssa-ke-support-specialist-dhl/
+- **Branch Assistants** at Victory Farms – 10 Positions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/branch-assistants-at-victory-farms-10-positions/

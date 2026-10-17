@@ -6728,3 +6728,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Intern** at Micro Enterprises Support Programme Trust (MESPT) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-intern-micro-enterprises-support-programme-trust-mespt-1
+
+## 2026-10-17 08:14 UTC — 6 new job(s)
+
+- **Ai/Ml Engineer** at Accelera Digital Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-ml-engineer-accelera-digital-group
+- **Full Stack Software Engineer** at Accelera Digital Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-software-engineer-accelera-digital-group
+- **Scientist – Livestock GHG MRV and Circular Bioeconomy** at International Livestock Research Institute (ILRI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/scientist-livestock-ghg-mrv-circular-bioeconomy-international-livestock-research-institute-ilri/
+- **Head of Artificial Intelligence** at Co-operative Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-artificial-intelligence-co-operative-bank-kenya/
+- **Operations Research Analyst.** at Defense Logistics Agency (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/operations-research-analyst-8mzr9z
+- **VACANCY ANNOUNCEMENT FOR THE POST OF PROGRAMME ASSOCIATE (WASH, Shelter and Settlements))** at EUBAM Libya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/vacancy-announcement-for-the-post-of-programme-associate-wash-shelter-and-settlements-7j78zm-v4

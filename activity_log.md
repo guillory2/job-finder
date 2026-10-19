@@ -6754,3 +6754,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/enterprise-sales-manager-liquid-intelligent-technologies/
 - **ICT Intern** at Micro Enterprises Support Programme Trust (MESPT) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ict-intern-micro-enterprises-support-programme-trust-mespt-2/
+
+## 2026-10-19 16:47 UTC — 4 new job(s)
+
+- **Forensic Data Analyst** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/forensic-data-analyst-britam
+- **ICT - Intern** at Riziki Source (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-riziki-source
+- **Submit CVs – Latest Recruitment** at Accelera Digital Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-accelera-digital-group/
+- **Research Assistant** at Brookfox Technologies Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/research-assistant-brookfox-technologies-ltd/

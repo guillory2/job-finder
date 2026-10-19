@@ -6743,3 +6743,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/operations-research-analyst-8mzr9z
 - **VACANCY ANNOUNCEMENT FOR THE POST OF PROGRAMME ASSOCIATE (WASH, Shelter and Settlements))** at EUBAM Libya (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/vacancy-announcement-for-the-post-of-programme-associate-wash-shelter-and-settlements-7j78zm-v4
+
+## 2026-10-19 09:31 UTC — 4 new job(s)
+
+- **Full-Stack Software Engineer (Python/Django + AI)** at Kutuma Kenya Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-software-engineer-python-django-ai-kutuma-kenya-limited
+- **ICT & Systems Manager** at Flexi-Personnel (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-systems-manager-flexi-personnel-1
+- **Enterprise Sales Manager** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/enterprise-sales-manager-liquid-intelligent-technologies/
+- **ICT Intern** at Micro Enterprises Support Programme Trust (MESPT) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-intern-micro-enterprises-support-programme-trust-mespt-2/

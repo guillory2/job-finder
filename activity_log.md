@@ -6765,3 +6765,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-accelera-digital-group/
 - **Research Assistant** at Brookfox Technologies Ltd (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/research-assistant-brookfox-technologies-ltd/
+
+## 2026-10-20 06:57 UTC — 2 new job(s)
+
+- **Trial Attorney** at Justice Management Division (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/trial-attorney-k75n9m
+- **Client Growth Manager, Insurance** at Solvo Global (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/client-growth-manager-insurance-8mzrj4

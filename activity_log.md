@@ -6772,3 +6772,236 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/trial-attorney-k75n9m
 - **Client Growth Manager, Insurance** at Solvo Global (Full Time) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/client-growth-manager-insurance-8mzrj4
+
+## 2026-10-20 13:15 UTC — 115 new job(s)
+
+- **Graduate Trainee: Software Engineering - Kenya** at Cellulant Corporation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/graduate-trainee-software-engineering-kenya-cellulant-corporation
+- **Chief Technology and Product Officer** at Living Goods (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-technology-product-officer-living-goods/
+- **Data Scientist** at African Leadership X (ALX) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-pgwenw
+- **Data Engineer** at Sunculture (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-j6j08v
+- **Digital and Directorate AI Developer** at Britam (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-and-directorate-ai-developer-d9wg94
+- **Talent Scientist** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/talent-scientist-vdpj9j
+- **Visiting PhD Researcher - Bean Metabolomic Diversity** at Alliance of Bioversity International and the International Center for Tropical Agriculture (CIAT) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/visiting-phd-researcher-bean-metabolomic-diversity-7j7zrn
+- **Head of Artificial Intelligence** at Co-operative Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-artificial-intelligence-8mz790
+- **Research Associate I – Molecular Biology (IITA)** at International Livestock Research Institute (ILRI) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/research-associate-i-molecular-biology-iita-z84k8n
+- **Strategic Content and Storytelling Manager - Africa Region** at Nature Conservancy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/strategic-content-and-storytelling-manager-africa-region-qzdnzz
+- **Data Analyst - Entry Level** at Weetabix East Africa Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-entry-level-vdp6m2
+- **Product Research Manager** at Jacaranda Health (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-research-manager-wrz6rd
+- **Data Engineer** at Watu Credit (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-m0r779
+- **Director of Data Analytics** at Educate! (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-of-data-analytics-rrqwg2
+- **Global Head of Portfolio Performance** at Burn (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/global-head-of-portfolio-performance-m0r7nm
+- **Data Engineer** at Kenya Airways (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-k75kx5
+- **ACTUARIAL ASSISTANT** at CIC Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/actuarial-assistant-gmge98
+- **Cyber Security Administrator (Operations)** at Kenya Airways (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cyber-security-administrator-operations-n9de9k
+- **M-Pesa Africa: Head of Product, Merchant Solutions (SMME)** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/m-pesa-africa-head-of-product-merchant-solutions-smme-0k2jkz
+- **HR/ Admin** at Value8 Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/hr-admin-6q6jen
+- **Manager – Credit Origination** at NCBA (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-credit-origination-er58e2
+- **Cyber Security Administrator (Analysis)** at Kenya Airways (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cyber-security-administrator-analysis-7j76rj
+- **AI & Machine Learning Lecturer** at Africa Digital Media Institute (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-machine-learning-lecturer-j6j0z8
+- **ASSOCIATE PROFESSOR, KENYA-AIST GRADE 4 - AI; Machine learning** at Kenya Advanced Institute of Science and Technology (Kenya-AIST) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-professor-kenya-aist-grade-4-ai-machine-learning-5p4kn2
+- **Head of AI and Automation** at Central Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-ai-and-automation-z8408q
+- **Data Science Intern** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-science-intern-9k8zvj
+- **Education and Technology Researcher** at African Population and Health Research Centre (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/education-and-technology-researcher-8mz87j
+- **Engineering Trainee** at Kempinski Hotels (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/engineering-trainee-7j7655
+- **Machine Operator Intern** at Print Shop (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/machine-operator-intern-rrqxrq
+- **Data and Research Intern** at Africa Center for Health Systems and Gender Justice (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-and-research-intern-rrqw5g
+- **Director, Information, Communication & Technology (ICT)** at AMREF Health Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/director-information-communication-technology-ict-k75evv
+- **TRAINER OPPORTUNITIES** at Institute of Advanced Technology (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/trainer-opportunities-z840wk
+- **Economist I/II & Cost-Effectiveness Unit Lead** at IDInsight (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/economist-iii-cost-effectiveness-unit-lead-k75z8p
+- **Senior Backend Engineer (AI-Native)- Remote** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-backend-engineer-ai-native-remote-n9dvq9
+- **LOOKING FOR SKILLED TALENT? IAT HAS A READY WORKFORCE FOR EMPLOYMENT, INTERNSHIPS AND INDUSTRIAL ATTACHMENT** at Institute of Advanced Technology (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/looking-for-skilled-talent-iat-has-a-ready-workforce-for-employment-internships-and-industrial-attachment-vdpjxg
+- **Data Analytics Lecturer** at Africa Digital Media Institute (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analytics-lecturer-gmge42
+- **SENIOR BACKEND ENGINEER** at M-KOPA (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-backend-engineer-er5ep9
+- **Principal Software Engineer at MasterCard** at Mastercard (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/principal-software-engineer-at-mastercard-m0rw0g
+- **Tech Lead - Android Experience Engineering** at Watu Credit (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tech-lead-android-experience-engineering-9k8zxj
+- **Head of Innovation and Data Science - KTDA Holdings** at KTDA Holdings Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-innovation-and-data-science-ktda-holdings-k75k48
+- **Solution Engineer** at DDD Kenya Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solution-engineer-x86782
+- **HoD Digital Business Support Systems** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/hod-digital-business-support-systems-9k8vpw
+- **PropTech & SaaS Sales and Business Development** at Go Truckin (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/proptech-saas-sales-and-business-development-8mz8k6
+- **AI Tutor - Humanities** at xAI (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-tutor-humanities-d9wp6g
+- **Senior Content Designer** at Moniepoint Incorporated (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-content-designer-2krvgk
+- **Flutter & Frontend Developer** at KooraHR (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/flutter-frontend-developer-x86m2q
+- **Head, Chemicals Science and Policy Unit, P5** at UNEP (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-chemicals-science-and-policy-unit-p5-wrzxrp
+- **Information Security and Systems Lead, (Associate) Director** at IDInsight (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-security-and-systems-lead-associate-director-0k2jvx
+- **ICT & Database Intern** at Urgent Action Fund Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-database-intern-wrz6gd
+- **ALG Head of Impact** at African Leadership X (ALX) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/alg-head-of-impact-0k269x
+- **General Counsel (Remote)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/general-counsel-remote-9k8vvp
+- **Technical Program Manager.** at Living Goods (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-program-manager-z84kxx
+- **Head of Commercial Services** at Absa Bank Kenya PLC (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-commercial-services-5p40pp
+- **Growth and Acquisition Lead** at Kuzana Inc (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/growth-and-acquisition-lead-vdprjp
+- **Graduate Trainee: Software Engineering - Kenya** at Cellulant (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/graduate-trainee-software-engineering-kenya-j6jewd
+- **Senior QA Automation Engineer** at Watu Credit (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-qa-automation-engineer-x86vk0
+- **Database Administrator** at Central Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/database-administrator-x867w2
+- **Site Reliability Engineer** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/site-reliability-engineer-pgw954
+- **Senior Software Engineer (Remote)** at GiveDirectly, Inc (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-software-engineer-remote-5p4k56
+- **Java Backend Engineering Team Lead (Kenya)** at Triggerise (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/java-backend-engineering-team-lead-kenya-z849xn
+- **Metallurgist I** at State Department for Mining (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/metallurgist-i-6q6wqg
+- **Project Manager - Ubuntu Embedded Systems** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/project-manager-ubuntu-embedded-systems-wrz6nd
+- **Engineering Manager - Web** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/engineering-manager-web-gmg6wm
+- **Quality Officer** at KEDA(KENYA) CERAMICS CO., LTD (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-officer-wrz7pz
+- **DevOps Engineer** at Orchid HR (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/devops-engineer-er5894
+- **KNRA/12/2023 Principal Information Communication Technology Officer – K4** at Kenya Nuclear Regulatory Authority- KNRA (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/knra122023-principal-information-communication-technology-officer-k4-z840qk
+- **Tech Lead** at Pycs (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tech-lead-7j76v5
+- **Integrated Solutions Well Engineer** at Baker Hughes (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/integrated-solutions-well-engineer-9k8qj0
+- **Head of Payments and Platform** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-payments-and-platform-rrqxz4
+- **Product Manager - Security (Cloud)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-security-cloud-z8490x
+- **Product Manager - Security (Ubuntu Platform)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-security-ubuntu-platform-2kr6nv
+- **Product Manager - Security (Automotive)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-security-automotive-0k2jzg
+- **Product Manager - Security (Application Management)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-security-application-management-pgwe0w
+- **Product Manager - Security (Telco)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-security-telco-er5kj5
+- **Product Manager - Security (IoT)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-security-iot-45dg8m
+- **Product Manager - Security (AI/ML & MLOps)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-security-aiml-mlops-qzdnmj
+- **Rapid Response Rider** at AA Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/rapid-response-rider-x86mgq
+- **Product Manager - AI (Telco)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-ai-telco-m0reqm
+- **Product Manager - AI (Finance )** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-ai-finance-45dv2r
+- **Product Manager - AI (Application Management)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-ai-application-management-5p40xn
+- **IT Executive** at Tire World Ltd (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-executive-6q6wrz
+- **Staff Design Engineer - Cloud Networking UX** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/staff-design-engineer-cloud-networking-ux-qzdexe
+- **UX Designer - Infrastructure** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ux-designer-infrastructure-8mz879
+- **Product Manager - AI (Ubuntu Platform)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-ai-ubuntu-platform-8mz7dx
+- **Product Manager - AI (AI/ML & MLOps)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-ai-aiml-mlops-pgw4nj
+- **Product Manager - AI (Automotive)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-ai-automotive-wrzxgp
+- **Learner - Cybersecurity** at NTT Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/learner-cybersecurity-2krx4j
+- **IT & Systems Engineer (DevSecOps)** at West Indian Ocean Cable Company ( WIOCC) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-systems-engineer-devsecops-9k8qd8
+- **Software Developer/Analyst** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-developeranalyst-7j764z
+- **Senior Product Marketing Manager** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-product-marketing-manager-8mz79x
+- **IT & Cybersecurity Specialist** at Miale Solar (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-cybersecurity-specialist-9k8qn6
+- **Principal Analyst, Cyber Security Infrastructure** at Central Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/principal-analyst-cyber-security-infrastructure-7j7q6d
+- **IT Manager** at City Walk (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-manager-k75k8v
+- **Manager, Information Technology** at Digital Divide Data (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-information-technology-x86vxq
+- **IT Suport Specialist** at GH (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-suport-specialist-pgw492
+- **Sacco Chief Executive Officer (REF: CBI/CEO/09/2026)** at Co-operative Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sacco-chief-executive-officer-ref-cbiceo092026-0k242k
+- **Group Systems Manager- Mombasa** at Victory Farms (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/group-systems-manager-mombasa-k75zew
+- **Group Systems Manager- Nairobi** at Victory Farms (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/group-systems-manager-nairobi-5p4n5r
+- **ICT & Data Officer** at Tenwek Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-data-officer-9k8z45
+- **ICT Support Technician** at Oshwal Academy (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-support-technician-5p4n2e
+- **Head of Department - ICT & Engineering - Computer Science** at Zetech University (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-department-ict-engineering-computer-science-vdprdm
+- **Assistant Director, Information Communication Technology** at Kenya Medical Training College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-director-information-communication-technology-er5k4v
+- **Deputy Director, ICT Services-Grade Fourteen (14)** at Maseno University- MSU (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/deputy-director-ict-services-grade-fourteen-14-7j76kx
+- **Public Service Internship - Digital Literacy Programme at State Department for Basic Education** at Ministry of Education (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/public-service-internship-digital-literacy-programme-at-state-department-for-basic-education-n9de8v
+- **Computer Technologist (BU/AD/09/09/2026)** at Bomet University College (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/computer-technologist-buad09092026-rrqxex
+- **SENIOR DEPUTY DIRECTOR, CORPORATE SERVICES, KICD GRADE 2** at Kenya Institute of Curriculum Development- KICD (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-deputy-director-corporate-services-kicd-grade-2-7j7qmm
+- **Digital Scholarship Assistant, Library Department** at Aga Khan University Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-scholarship-assistant-library-department-45dv85
+- **Finance/Accounts Internship** at Limuru Technical & Vocational College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/financeaccounts-internship-7j760j
+- **Barista** at Durham International Schools Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/barista-x867dn
+- **Administrative and Finance Officer - Temporary, P4** at United Nations Office on Drugs and Crime (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/administrative-and-finance-officer-temporary-p4-x867v8
+- **Consultant, Phlebotomist, LOSHAK, Population Health - (260003CD)- Kakamega** at Aga Khan University Hospital (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/consultant-phlebotomist-loshak-population-health-260003cd-kakamega-gmge7q
+- **Consultant, Phlebotomist, LOSHAK, Population Health - (260003CD)- Nakuru** at Aga Khan University Hospital (Nakuru) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/consultant-phlebotomist-loshak-population-health-260003cd-nakuru-2kr6dv
+- **Medical Case Intern** at AMREF Health Africa (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/medical-case-intern-vdp6p2
+- **Consultant, Phlebotomist, LOSHAK, Population Health - (260003CD)- Kisumu** at Aga Khan University Hospital (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/consultant-phlebotomist-loshak-population-health-260003cd-kisumu-45dgv9
+- **Consultant, Phlebotomist, LOSHAK, Population Health - (260003CD)- Nairobi** at Aga Khan University Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/consultant-phlebotomist-loshak-population-health-260003cd-nairobi-9k8v6p

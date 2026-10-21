@@ -7099,3 +7099,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/head-technology-nairobi-safal-group/
 - **HoD Digital Business Support Systems** at SAFARICOM (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/hod-digital-business-support-systems-5p4jm2
+
+## 2026-10-21 22:59 UTC — 1 new job(s)
+
+- **Microsoft Dynamics 365 Business Central Developer** at Zamara Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/microsoft-dynamics-365-business-central-developer-zamara-kenya-2/

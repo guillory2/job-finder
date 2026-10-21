@@ -7005,3 +7005,84 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/consultant-phlebotomist-loshak-population-health-260003cd-kisumu-45dgv9
 - **Consultant, Phlebotomist, LOSHAK, Population Health - (260003CD)- Nairobi** at Aga Khan University Hospital (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/consultant-phlebotomist-loshak-population-health-260003cd-nairobi-9k8v6p
+
+## 2026-10-21 02:39 UTC — 39 new job(s)
+
+- **Junior Data Scientist** at Pezesha (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/junior-data-scientist-gmgxv4
+- **Data Engineer** at Moringa School (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-k75j4x
+- **Data Analyst** at Rift Valley Institute of Business Studies (RVIBS) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-n9d600
+- **Data Analyst, Internal Audit** at GiveDirectly, Inc (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analyst-internal-audit-0k2rpw
+- **Head of Product, Merchant Solutions (SMME)** at SAFARICOM (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-product-merchant-solutions-smme-wrz45d
+- **Head, Data, Analytics and AI** at Kenya Airways (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-data-analytics-and-ai-8mz65j
+- **Assistant Manager, Portfolio Management - JKUATES** at JKUAT Enterprises Ltd (JKUATES) (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/assistant-manager-portfolio-management-jkuates-gmgxn4
+- **Manager, Database Administration** at SBM Bank (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-database-administration-6q69g7
+- **Deputy Manager, Database Administration** at Central Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/deputy-manager-database-administration-k75jnj
+- **Sales Operations Analyst** at Burn (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-operations-analyst-0k2r8k
+- **Senior Product Manager (AI-Native) - Remote** at Umba (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-product-manager-ai-native-remote-2krmke
+- **Technical Field Support - Evergreen Requisition** at Value8 Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-field-support-evergreen-requisition-n9d6wm
+- **PROFESSORS, KENYA-AIST GRADE 3 - AI: Machine Learning** at Kenya Advanced Institute of Science and Technology (Kenya-AIST) (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/professors-kenya-aist-grade-3-ai-machine-learning-vdp8mv
+- **CRM, Systems and Data Specialist** at MEDECINS SAN FRONTIERES (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/crm-systems-and-data-specialist-wrz4m4
+- **Solutions and Business Architecture Area Chapter Lead** at SAFARICOM (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solutions-and-business-architecture-area-chapter-lead-45dvep
+- **M-Pesa Africa: Senior Data Architect** at SAFARICOM (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/m-pesa-africa-senior-data-architect-k75ewn
+- **Head Data Applications & Integration** at Central Bank of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-data-applications-integration-9k877n
+- **Software Engineer - Secure Container Images** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineer-secure-container-images-9k87n5
+- **Development and Innovation Officer** at Royal Mabati Factory Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/development-and-innovation-officer-2kr6e6
+- **Frontend Software Developer** at Riset Software & Systems Ltd (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/frontend-software-developer-8mzw69
+- **Devops Engineer** at KooraHR (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/devops-engineer-x86rgn
+- **Senior Software Engineer, Google Play** at Google (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-software-engineer-google-play-5p400r
+- **Software Engineer - Environmental Data Capacity (EDC) Toolkit** at UNEP (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineer-environmental-data-capacity-edc-toolkit-vdp88g
+- **Enterprise Account Executive** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/enterprise-account-executive-9k870j
+- **Technical Product Marketing Manager - Cybersecurity** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-product-marketing-manager-cybersecurity-z84mxv
+- **Manager of Enterprise Open Source Sales Team** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-of-enterprise-open-source-sales-team-er5e06
+- **Product Manager - Security (Finance)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-security-finance-45dkg2
+- **Product Manager - Security (Ubuntu Pro Services)** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/product-manager-security-ubuntu-pro-services-6q6p77
+- **WSO2 Implementation Engineer – CIAM / API Management / Ballerina** at Sybyl (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/wso2-implementation-engineer-ciam-api-management-ballerina-vdp68p
+- **Usability Engineer - User Science** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/usability-engineer-user-science-rrq9wm
+- **Techno Commercial Manager RAN CU ENA** at Ericsson Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/techno-commercial-manager-ran-cu-ena-qzd0z6
+- **Packet Core Support Solution Architect** at Ericsson Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/packet-core-support-solution-architect-6q6pm8
+- **Open Source Enterprise Sales / Alliances** at Canonical (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/open-source-enterprise-sales-alliances-gmgx7e
+- **Software Developer Analyst** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-developer-analyst-d9w8qr
+- **Solutions Architect** at NCBA (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/solutions-architect-vdp888
+- **RM Digital – Women Banking** at Kingdom Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/rm-digital-women-banking-n9d6xe
+- **Quality Associate - ICT** at Aga Khan University Hospital (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-associate-ict-8mz6mn
+- **Senior Lecturer-ICT (BU/ACD/01/09/2026)** at Bomet University College (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-lecturer-ict-buacd01092026-6q6p56
+- **SALES AND MARKETING OFFICER** at Taifa Mobile Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sales-and-marketing-officer-0k2rdj

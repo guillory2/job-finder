@@ -7086,3 +7086,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-lecturer-ict-buacd01092026-6q6p56
 - **SALES AND MARKETING OFFICER** at Taifa Mobile Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/sales-and-marketing-officer-0k2rdj
+
+## 2026-10-21 09:05 UTC — 5 new job(s)
+
+- **Submit CVs – Latest Recruitment** at SunCulture Kenya Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-sunculture-kenya-ltd-4/
+- **Graduate Trainee: Software Engineering – Kenya** at Cellulant Corporation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/graduate-trainee-software-engineering-kenya-cellulant-corporation/
+- **Data Engineer( DataBricks & Snowflake)** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineer-databricks-snowflake-andishi/
+- **Head Of Technology (Nairobi)** at Safal Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-technology-nairobi-safal-group/
+- **HoD Digital Business Support Systems** at SAFARICOM (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/hod-digital-business-support-systems-5p4jm2

@@ -7104,3 +7104,44 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Microsoft Dynamics 365 Business Central Developer** at Zamara Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/microsoft-dynamics-365-business-central-developer-zamara-kenya-2/
+
+## 2026-10-22 02:35 UTC — 19 new job(s)
+
+- **Head of Artificial Intelligence** at Co-operative Bank (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/head-of-artificial-intelligence-45dz89
+- **Software Developer Analyst** at International Rescue Committee (The IRC) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-developer-analyst-45dzd9
+- **Data QA** at The Jitu.com (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-qa-n9dm2g
+- **Data & Analytics Engineer** at Food For Education (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-analytics-engineer-n9dm2k
+- **Information Security & Investigations Analyst | TP Kenya** at Teleperformance (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-security-investigations-analyst-tp-kenya-z84np8
+- **Welding Technician** at Burn (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/welding-technician-qzdj4k
+- **AI Platform Engineer** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-platform-engineer-2krekj
+- **Digital Transformation Lecturer** at Africa Digital Media Institute (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-transformation-lecturer-8mzen7
+- **Chief Information Officer** at Royal Mabati Factory Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/chief-information-officer-qzdj57
+- **IT & Systems Engineer (Network Automation)** at West Indian Ocean Cable Company ( WIOCC) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-systems-engineer-network-automation-j6j8jv
+- **Boat Engineer** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/boat-engineer-wrzve5
+- **QA Automation Engineer - Mombasa** at Watu Credit (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/qa-automation-engineer-mombasa-n9dmzk
+- **Information Security Lead** at Burn (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-security-lead-k754p2
+- **Manager, Technology (IT) Risk (EBKL)** at Equity Bank Kenya (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/manager-technology-it-risk-ebkl-5p4e4x
+- **Sacco Information Systems Administrator** at Co-operative Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/sacco-information-systems-administrator-d9wvnm
+- **ICT Senior Analyst** at UNOPS (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-senior-analyst-9k8e50
+- **Technical Trainers- ICT Trainer** at Missions of Hope International (MOHI) (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technical-trainers-ict-trainer-9k8ejw
+- **Internship- ICT Support and Hardware** at Optiven Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/internship-ict-support-and-hardware-7j7evz
+- **Cyber Security Officer – Grade Eight (8)(Directorate of E-Campus)** at Maseno University- MSU (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/cyber-security-officer-grade-eight-8directorate-of-e-campus-qzdjdk

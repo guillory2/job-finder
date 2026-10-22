@@ -7145,3 +7145,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/internship-ict-support-and-hardware-7j7evz
 - **Cyber Security Officer – Grade Eight (8)(Directorate of E-Campus)** at Maseno University- MSU (Kisumu) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/cyber-security-officer-grade-eight-8directorate-of-e-campus-qzdjdk
+
+## 2026-10-22 09:07 UTC — 1 new job(s)
+
+- **Submit CVs – New Recruitment** at Stellar Human Resource Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-stellar-human-resource-solutions-4/

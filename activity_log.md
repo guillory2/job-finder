@@ -7150,3 +7150,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Submit CVs – New Recruitment** at Stellar Human Resource Solutions (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-stellar-human-resource-solutions-4/
+
+## 2026-10-22 14:50 UTC — 3 new job(s)
+
+- **Senior Software Engineer** at Zeraki (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-engineer-zeraki/
+- **DevOps Engineer** at Savannah Informatics (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/devops-engineer-savannah-informatics-4/
+- **Information Technology Help Desk Technician** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-help-desk-technician-solvo-global/

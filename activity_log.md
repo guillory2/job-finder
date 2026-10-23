@@ -7159,3 +7159,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/devops-engineer-savannah-informatics-4/
 - **Information Technology Help Desk Technician** at Solvo Global (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-technology-help-desk-technician-solvo-global/
+
+## 2026-10-23 02:40 UTC — 9 new job(s)
+
+- **Data Scientist** at Kenya Airways (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-scientist-x860e0
+- **Senior Data Scientist** at Natural State (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-data-scientist-8mze27
+- **Associate Manager - Data Analytics** at Majid Al Futtaim (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/associate-manager-data-analytics-qzdjez
+- **Data Engineer** at Accelera Digital Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/data-engineer-45dzzr
+- **Lecturer - Information Communication Technology** at Makueni University College (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lecturer-information-communication-technology-rrqpm9
+- **Information Communication Technology Assistant** at Kenya Medical Training College (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/information-communication-technology-assistant-er50z9
+- **QA Automation Engineer - Nairobi** at Watu Credit (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/qa-automation-engineer-nairobi-vdp75x
+- **Senior Infrastructure & Cybersecurity Engineer** at Green Com Enterprise Solutions LTD (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-infrastructure-cybersecurity-engineer-k754zv
+- **ICT Risk Officer** at GA Insurance Limited (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-risk-officer-z84n9n

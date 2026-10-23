@@ -7180,3 +7180,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-infrastructure-cybersecurity-engineer-k754zv
 - **ICT Risk Officer** at GA Insurance Limited (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-risk-officer-z84n9n
+
+## 2026-10-23 09:01 UTC — 5 new job(s)
+
+- **Forward-Deployed Engineer** at Accelera Digital Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/forward-deployed-engineer-accelera-digital-group/
+- **Procurement Manager, Emerging Technology and Digital Innovation Procurement** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/procurement-manager-emerging-technology-digital-innovation-procurement-international-rescue-committee/
+- **Submit CVs – Latest Recruitment** at Sidian Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-sidian-bank-7/
+- **Assistant Manager, Information Security** at DIB Bank Kenya Limited (DIBBKE) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-manager-information-security-dib-bank-kenya-limited-dibbke/
+- **Digital Transformation Lecturer** at Africa Digital Media Institute (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/digital-transformation-lecturer-7j7eem

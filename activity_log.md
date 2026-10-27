@@ -7193,3 +7193,48 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/assistant-manager-information-security-dib-bank-kenya-limited-dibbke/
 - **Digital Transformation Lecturer** at Africa Digital Media Institute (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/digital-transformation-lecturer-7j7eem
+
+## 2026-10-27 15:41 UTC — 21 new job(s)
+
+- **Data Scientist** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-co-operative-bank-of-kenya-8
+- **Junior Data Analyst (Internship)** at Moko Home + Living (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-data-analyst-internship-moko-home-living
+- **Data Protection Analyst** at Family Bank Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-protection-analyst-family-bank-ltd
+- **AI – QA Automation Engineer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-qa-automation-engineer-co-operative-bank-of-kenya
+- **AI Integration Engineer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-integration-engineer-co-operative-bank-of-kenya
+- **AI Application Engineer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-application-engineer-co-operative-bank-of-kenya
+- **ICT Risk Officer, Risk & Compliance** at GA Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-risk-officer-risk-compliance-ga-insurance
+- **Data Analyst** at Transsion (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-transsion/
+- **Financial and Credit Analyst** at Lions Sightfirst Eye Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/financial-credit-analyst-lions-sightfirst-eye-hospital/
+- **Submit CVs – New Recruitment** at Co-operative Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-co-operative-bank-kenya-2/
+- **Senior Software Engineer** at Living Goods (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-engineer-living-goods/
+- **Network Engineer** at Zetech University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/network-engineer-zetech-university-2/
+- **Submit CVs – New Recruitment** at I&M Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-im-bank-4/
+- **IT Support Associate** at Food For Education (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/support-associate-food-education/
+- **Chief Information Officer (CIO)** at Lions Sightfirst Eye Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-information-officer-cio-lions-sightfirst-eye-hospital/
+- **Imports & Customs Specialist** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/imports-customs-specialist-victory-farms/
+- **RAS Hatchery Assistant Manager** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ras-hatchery-assistant-manager-victory-farms/
+- **Broodstock Management Assistant Manager** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/broodstock-management-assistant-manager-victory-farms/
+- **Software Engineer** at Accelera Digital Group (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-engineer-7j7k0d
+- **Lecturer - Software Engineering and Systems Design** at Technical University of Kenya (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/lecturer-software-engineering-and-systems-design-5p4mgg
+- **Procurement Manager, Emerging Technology and Digital Innovation Procurement** at International Rescue Committee (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/procurement-manager-emerging-technology-and-digital-innovation-procurement-5p4mzg

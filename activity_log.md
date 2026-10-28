@@ -7247,3 +7247,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-officer-ict-risk-m0rz4q
 - **IT LEAD** at Sheer Logic Management Consultants Ltd (Full Time) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/it-lead-5p4m57
+
+## 2026-10-28 07:48 UTC — 3 new job(s)
+
+- **Submit CVs – Latest Recruitment** at Family Bank Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-family-bank-ltd/
+- **Cloud Lead Architect** at Medecins Sans Frontieres (MSF) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cloud-lead-architect-medecins-sans-frontieres-msf/
+- **ICT Risk Officer, Risk & Compliance** at GA Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-risk-officer-risk-compliance-ga-insurance/

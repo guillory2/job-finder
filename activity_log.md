@@ -7238,3 +7238,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/lecturer-software-engineering-and-systems-design-5p4mgg
 - **Procurement Manager, Emerging Technology and Digital Innovation Procurement** at International Rescue Committee (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/procurement-manager-emerging-technology-and-digital-innovation-procurement-5p4mzg
+
+## 2026-10-28 00:53 UTC — 3 new job(s)
+
+- **Executive Head of Privacy** at SAFARICOM (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/executive-head-of-privacy-er56md
+- **Senior Officer – ICT Risk** at Kingdom Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-officer-ict-risk-m0rz4q
+- **IT LEAD** at Sheer Logic Management Consultants Ltd (Full Time) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/it-lead-5p4m57

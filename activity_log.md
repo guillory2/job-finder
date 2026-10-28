@@ -7256,3 +7256,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/cloud-lead-architect-medecins-sans-frontieres-msf/
 - **ICT Risk Officer, Risk & Compliance** at GA Insurance (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ict-risk-officer-risk-compliance-ga-insurance/
+
+## 2026-10-28 14:46 UTC — 5 new job(s)
+
+- **IT Infrastructure, Support & Cybersecurity Lead** at Spinners and Spinners Ltd (S&S) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-infrastructure-support-cybersecurity-lead-spinners-and-spinners-ltd-s-amp-s
+- **ICT Security SOC Analyst** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-security-soc-analyst-co-operative-bank-of-kenya
+- **Software Developer/Engineer** at Nextedtech School (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-developerengineer-n9d4k0
+- **Tax Systems Integration Developer** at Davis & Shirtliff (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/tax-systems-integration-developer-x865zn
+- **OFFICER, INTERNAL AUDIT – SYSTEMS AND GENERAL AUDIT** at SALAAM MICROFINANCE BANK (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/officer-internal-audit-systems-and-general-audit-m0rzdr

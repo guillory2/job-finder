@@ -7285,3 +7285,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/infrastructure-support-cybersecurity-lead-spinners-spinners-ltd-ss/
 - **Submit CVs – New Recruitment** at Victoria Court (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-victoria-court-2/
+
+## 2026-10-29 14:51 UTC — 6 new job(s)
+
+- **Software Engineer (PHP/Laravel)** at Salix Data (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-php-laravel-salix-data
+- **Artificial Intelligence Lead** at Standard Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/artificial-intelligence-lead-standard-bank-group/
+- **AI Fellow – Africa Regional Offices** at Gates Foundation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-fellow-africa-regional-offices-gates-foundation/
+- **Specialist, IT Platform Support Operations** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/specialist-platform-support-operations-ncba-group/
+- **Audio-Visual Specialist** at icipe – International Centre of Insect Physiology and Ecology (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/audio-visual-specialist-icipe-international-centre-insect-physiology-ecology/
+- **Submit CVs – New Recruitment** at Financial Reporting Centre (FRC) – (21 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-at-financial-reporting-centre-frc-21-positions/

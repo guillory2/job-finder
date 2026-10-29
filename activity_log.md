@@ -7276,3 +7276,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/senior-product-engineer-payments-risk-8mzj70
 - **ICT Automation Engineer** at Tatu City (Rest of Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ict-automation-engineer-pgwxrv
+
+## 2026-10-29 07:54 UTC — 3 new job(s)
+
+- **Graduate – Commercial & Data** at Tropical Heat (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/graduate-commercial-data-tropical-heat/
+- **IT Infrastructure, Support & Cybersecurity Lead** at Spinners and Spinners Ltd (S&S) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/infrastructure-support-cybersecurity-lead-spinners-spinners-ltd-ss/
+- **Submit CVs – New Recruitment** at Victoria Court (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-victoria-court-2/

@@ -7269,3 +7269,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/tax-systems-integration-developer-x865zn
 - **OFFICER, INTERNAL AUDIT – SYSTEMS AND GENERAL AUDIT** at SALAAM MICROFINANCE BANK (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/officer-internal-audit-systems-and-general-audit-m0rzdr
+
+## 2026-10-29 01:28 UTC — 2 new job(s)
+
+- **Senior Product Engineer - Payments Risk** at WeTravel (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-product-engineer-payments-risk-8mzj70
+- **ICT Automation Engineer** at Tatu City (Rest of Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-automation-engineer-pgwxrv

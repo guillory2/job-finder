@@ -7300,3 +7300,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/audio-visual-specialist-icipe-international-centre-insect-physiology-ecology/
 - **Submit CVs – New Recruitment** at Financial Reporting Centre (FRC) – (21 Positions) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-at-financial-reporting-centre-frc-21-positions/
+
+## 2026-11-02 19:57 UTC — 7 new job(s)
+
+- **Senior Frontend Developer** at Tana (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-frontend-developer-tana
+- **Senior Business Systems Analyst** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-business-systems-analyst-tana/
+- **Submit CVs – New Recruitment** at UNICEF (8 Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-unicef-8-positions/
+- **Head of ICT** at Healthy U (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-ict-healthy-u/
+- **Senior Data Scientist, MNO Data** at GiveDirectly, Inc (Kisumu) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/senior-data-scientist-mno-data-9k84rw
+- **Maintenance Analyst** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/maintenance-analyst-gmg24n
+- **AI Integration Engineer** at Co-operative Bank (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ai-integration-engineer-wrzqk5

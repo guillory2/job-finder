@@ -7317,3 +7317,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/maintenance-analyst-gmg24n
 - **AI Integration Engineer** at Co-operative Bank (Nairobi) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ai-integration-engineer-wrzqk5
+
+## 2026-11-03 08:54 UTC — 2 new job(s)
+
+- **Data Analyst, Shopper Insights** at Mondelez International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-shopper-insights-mondelez-international
+- **AI Engineers** at Craft Silicon (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-engineers-craft-silicon

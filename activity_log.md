@@ -7324,3 +7324,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-analyst-shopper-insights-mondelez-international
 - **AI Engineers** at Craft Silicon (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ai-engineers-craft-silicon
+
+## 2026-11-03 17:30 UTC — 6 new job(s)
+
+- **Assistant Manager, Data Scientist** at I&M Bank (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-manager-data-scientist-i-m-bank
+- **ICT Business Partner (Upstream Oil & Gas Waste Management)** at WTS Energy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-business-partner-upstream-oil-gas-waste-management-wts-energy
+- **Senior Teacher (Mathematics & ICT)** at TARO Links (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-teacher-mathematics-ict-taro-links
+- **Senior Teacher (English Literature & ICT)** at TARO Links (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-teacher-english-literature-ict-taro-links
+- **ICT Analyst** at UNOPS (Nairobi) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ict-analyst-k7592w
+- **SOFTWARE DEVELOPER / MULTIMEDIA SPECIALIST** at Futuristic Ltd (Kenya) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/software-developer-multimedia-specialist-0k2mzd

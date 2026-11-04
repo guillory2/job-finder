@@ -7348,3 +7348,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-teacher-mathematics-ict-taro-links/
 - **Senior Teacher (English Literature & ICT)** at TARO Links (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-teacher-english-literature-ict-taro-links/
+
+## 2026-11-04 19:10 UTC — 2 new job(s)
+
+- **Trainer - ICT** at Jolearn Training College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/trainer-ict-jolearn-training-college
+- **Business & Digital Transformation Officer** at Adjacent Possible Finance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-digital-transformation-officer-adjacent-possible-finance/

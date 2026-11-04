@@ -7339,3 +7339,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/ict-analyst-k7592w
 - **SOFTWARE DEVELOPER / MULTIMEDIA SPECIALIST** at Futuristic Ltd (Kenya) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/software-developer-multimedia-specialist-0k2mzd
+
+## 2026-11-04 11:53 UTC — 3 new job(s)
+
+- **Assistant Manager, Data Scientist** at I&M Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-manager-data-scientist-im-bank/
+- **Senior Teacher (Mathematics & ICT)** at TARO Links (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-teacher-mathematics-ict-taro-links/
+- **Senior Teacher (English Literature & ICT)** at TARO Links (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-teacher-english-literature-ict-taro-links/

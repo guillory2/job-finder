@@ -7360,3 +7360,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Junior Software Engineer (50k)** at Sheer Logic (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/junior-software-engineer-50k-sheer-logic/
+
+## 2026-11-05 17:49 UTC — 2 new job(s)
+
+- **Software Engineer** at APA Life Assurance Company Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-apa-life-assurance-company-ltd-1
+- **Cloud Engineer** at APA Life Assurance Company Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cloud-engineer-apa-life-assurance-company-ltd

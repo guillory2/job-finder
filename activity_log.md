@@ -7355,3 +7355,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/trainer-ict-jolearn-training-college
 - **Business & Digital Transformation Officer** at Adjacent Possible Finance (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-digital-transformation-officer-adjacent-possible-finance/
+
+## 2026-11-05 08:48 UTC — 1 new job(s)
+
+- **Junior Software Engineer (50k)** at Sheer Logic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-software-engineer-50k-sheer-logic/

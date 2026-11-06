@@ -7367,3 +7367,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-engineer-apa-life-assurance-company-ltd-1
 - **Cloud Engineer** at APA Life Assurance Company Ltd (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/cloud-engineer-apa-life-assurance-company-ltd
+
+## 2026-11-06 13:41 UTC — 5 new job(s)
+
+- **Junior Data Scientist** at Pezesha (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-data-scientist-pezesha-3
+- **Project Analyst - Data Visualization** at Catholic Relief (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-analyst-data-visualization-catholic-relief
+- **Junior NOC Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-noc-engineer-cic-insurance/
+- **Customer Success Engineer (Network Security)** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/customer-success-engineer-network-security-tana/
+- **Customer Success Engineering Team Lead (Network Security)** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/customer-success-engineering-team-lead-network-security-tana/

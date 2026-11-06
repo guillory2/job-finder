@@ -7380,3 +7380,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/customer-success-engineer-network-security-tana/
 - **Customer Success Engineering Team Lead (Network Security)** at Tana (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/customer-success-engineering-team-lead-network-security-tana/
+
+## 2026-11-06 20:13 UTC — 5 new job(s)
+
+- **ICT Officer I (Web Designer & Development, Networking, Software Development)- 3 Posts** at Laikipia County Government (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-web-designer-development-networking-software-development-3-posts-laikipia-county-government
+- **ICT Officer I - 4 Posts** at Laikipia County Government (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-4-posts-laikipia-county-government
+- **Senior NOC Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-noc-engineer-cic-insurance/
+- **Junior NOC Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-noc-engineer-cic-insurance-2/
+- **Observability & Automation Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/observability-automation-engineer-cic-insurance/

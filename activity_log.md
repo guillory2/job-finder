@@ -7393,3 +7393,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/junior-noc-engineer-cic-insurance-2/
 - **Observability & Automation Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/observability-automation-engineer-cic-insurance/
+
+## 2026-11-07 08:05 UTC — 1 new job(s)
+
+- **ICT Officer** at Westlands Specialist Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-westlands-specialist-hospital

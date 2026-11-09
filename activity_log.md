@@ -7398,3 +7398,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Officer** at Westlands Specialist Hospital (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-officer-westlands-specialist-hospital
+
+## 2026-11-09 08:56 UTC — 2 new job(s)
+
+- **Computer Studies / ICT Teacher** at Clevers Schools (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/computer-studies-ict-teacher-clevers-schools
+- **Machine Operator Trainee** at Tai Talent Matters (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/machine-operator-trainee-tai-talent-matters/

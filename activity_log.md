@@ -7405,3 +7405,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/computer-studies-ict-teacher-clevers-schools
 - **Machine Operator Trainee** at Tai Talent Matters (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/machine-operator-trainee-tai-talent-matters/
+
+## 2026-11-09 20:21 UTC — 1 new job(s)
+
+- **Data Centre Engineer** at PAIX Data Centres (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-centre-engineer-paix-data-centres/

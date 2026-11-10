@@ -7430,3 +7430,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/systems-support-developer-amcco-properties/
 - **Incubation Foreman** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/incubation-foreman-victory-farms/
+
+## 2026-11-10 19:18 UTC — 6 new job(s)
+
+- **Software Engineer and Artificial Intelligence Lead** at Center for Global Health and Pandemic Intelligence (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-and-artificial-intelligence-lead-center-for-global-health-and-pandemic-intelligence
+- **Digital Communication and Cybersecurity Specialist** at Center for Global Health and Pandemic Intelligence (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/digital-communication-and-cybersecurity-specialist-center-for-global-health-and-pandemic-intelligence
+- **Computer Studies & ICT Teacher** at Makini High School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/computer-studies-ict-teacher-makini-high-school
+- **ICT Administrator** at Kenchic Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-administrator-kenchic-limited
+- **Senior Azure Data Engineering Expert** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-azure-data-engineering-expert-andishi/
+- **Business Development & Account Manager** at Thales (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-account-manager-thales-2/

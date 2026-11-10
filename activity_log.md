@@ -7410,3 +7410,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Centre Engineer** at PAIX Data Centres (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/data-centre-engineer-paix-data-centres/
+
+## 2026-11-10 03:57 UTC — 1 new job(s)
+
+- **ICT Support Personnel** at Mudasa Academy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-support-personnel-mudasa-academy

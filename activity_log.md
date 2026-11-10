@@ -7415,3 +7415,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Support Personnel** at Mudasa Academy (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-support-personnel-mudasa-academy
+
+## 2026-11-10 12:01 UTC — 6 new job(s)
+
+- **Data Analyst** at Vermi-Farm Initiative (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-vermi-farm-initiative
+- **Assistant Director, ICT– REF: NTSA/11/2026/07** at National Transport and Safety Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-director-ict-ref-ntsa-11-2026-07-national-transport-and-safety-authority
+- **Deputy Director, ICT – REF NTSA/11/2026/03** at National Transport and Safety Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/deputy-director-ict-ref-ntsa-11-2026-03-national-transport-and-safety-authority
+- **Lead, IT Change & Interventions** at Save the Children (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-change-interventions-save-children-2/
+- **IT Systems Support & Developer** at AMCCO Properties (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-support-developer-amcco-properties/
+- **Incubation Foreman** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/incubation-foreman-victory-farms/

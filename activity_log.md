@@ -7445,3 +7445,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-azure-data-engineering-expert-andishi/
 - **Business Development & Account Manager** at Thales (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-account-manager-thales-2/
+
+## 2026-11-11 08:43 UTC — 1 new job(s)
+
+- **ICT Assistant** at Mary Help of the Sick Mission Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistant-mary-help-of-the-sick-mission-hospital

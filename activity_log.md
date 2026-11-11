@@ -7450,3 +7450,34 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ICT Assistant** at Mary Help of the Sick Mission Hospital (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ict-assistant-mary-help-of-the-sick-mission-hospital
+
+## 2026-11-11 17:38 UTC — 14 new job(s)
+
+- **Data Analyst** at Ideon Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-ideon-limited-1
+- **DevOps Engineer** at Onfon Media (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-onfon-media
+- **ICT Officer II, Cybersecurity** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-cybersecurity-digital-health-agency-dha
+- **ICT Officer I, Cybersecurity** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-cybersecurity-digital-health-agency-dha
+- **Computer Studies & ICT Teacher** at Yellow Pages Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/computer-studies-ict-teacher-yellow-pages-kenya
+- **ICT Officer I, Enterprise Infrastructure** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-enterprise-infrastructure-digital-health-agency-dha
+- **ICT Officer II, Software Development** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-software-development-digital-health-agency-dha
+- **ICT Officer II, Enterprise Infrastructure** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-enterprise-infrastructure-digital-health-agency-dha
+- **Procurement Specialist & Systems Analyst** at Lake Turkana Wind Power (LTWP) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/procurement-specialist-systems-analyst-lake-turkana-wind-power-ltwp/
+- **Senior Backend Engineer II & III (.NET)** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-backend-engineer-ii-iii-net-m-kopa-solar/
+- **Submit CVs – New Recruitment** at Onfon Media (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-onfon-media/
+- **IT Officer** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/officer-international-rescue-committee/
+- **IT** at OPPO Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/it-at-oppo-kenya/
+- **ICT Administrator** at Kenchic Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-administrator-kenchic-limited/

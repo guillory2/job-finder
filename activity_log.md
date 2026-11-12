@@ -7505,3 +7505,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-xemay-enterprises-limited/
 - **Head of Technology** at Safal Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-technology-safal-group/
+
+## 2026-11-12 22:02 UTC — 1 new job(s)
+
+- **(GSO) Cadets - Graduates - Information and Communications Technology (ICT)** at Kenya Defence Forces (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/gso-cadets-graduates-information-and-communications-technology-ict-kenya-defence-forces-1

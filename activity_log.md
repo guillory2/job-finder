@@ -7486,3 +7486,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Fullstack Developer (6 months Fixed Term Contract)** at Britam (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/fullstack-developer-6-months-fixed-term-contract-britam-1
+
+## 2026-11-12 14:20 UTC — 8 new job(s)
+
+- **GIS Data Analyst** at Genesis Analytics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/gis-data-analyst-genesis-analytics
+- **Deputy Director, Cybersecurity** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/deputy-director-cybersecurity-digital-health-agency-dha
+- **ICT Officer I, Software Development** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-software-development-digital-health-agency-dha
+- **Senior ICT Officer, Network and Connectivity** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ict-officer-network-and-connectivity-digital-health-agency-dha
+- **ICT/IT Officer** at Nanyuki Cottage Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-it-officer-nanyuki-cottage-hospital
+- **Head of Products & Solutions** at Wananchi Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-products-solutions-wananchi-group/
+- **Submit CVs – New Recruitment** at Xemay Enterprises Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-xemay-enterprises-limited/
+- **Head of Technology** at Safal Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-technology-safal-group/

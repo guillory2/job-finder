@@ -7481,3 +7481,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/it-at-oppo-kenya/
 - **ICT Administrator** at Kenchic Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ict-administrator-kenchic-limited/
+
+## 2026-11-12 05:00 UTC — 1 new job(s)
+
+- **Fullstack Developer (6 months Fixed Term Contract)** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-6-months-fixed-term-contract-britam-1

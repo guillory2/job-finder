@@ -7510,3 +7510,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **(GSO) Cadets - Graduates - Information and Communications Technology (ICT)** at Kenya Defence Forces (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/gso-cadets-graduates-information-and-communications-technology-ict-kenya-defence-forces-1
+
+## 2026-11-13 11:47 UTC — 5 new job(s)
+
+- **Forensic Technology & Data Analyst** at Onfon Mobile (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/forensic-technology-data-analyst-onfon-mobile
+- **DevOps Engineer** at Onfon Mobile (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-onfon-mobile
+- **ICT Trainer** at Powervision Consultancy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-trainer-powervision-consultancy
+- **Head of ICT** at Mhasibu Savings and Credit Cooperative Society Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-ict-mhasibu-savings-and-credit-cooperative-society-limited
+- **Submit CVs – New Recruitment** at Digital Health Agency (DHA) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-digital-health-agency-dha-2/

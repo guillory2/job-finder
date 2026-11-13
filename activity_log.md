@@ -7523,3 +7523,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/head-of-ict-mhasibu-savings-and-credit-cooperative-society-limited
 - **Submit CVs – New Recruitment** at Digital Health Agency (DHA) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-digital-health-agency-dha-2/
+
+## 2026-11-13 19:01 UTC — 2 new job(s)
+
+- **Trainers-ICT** at University of Embu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/trainers-ict-university-of-embu
+- **Assistant ICT Officer (Instructional Designer)** at University of Embu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-ict-officer-instructional-designer-university-of-embu

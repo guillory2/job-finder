@@ -7537,3 +7537,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/technical-lead-abacus/
 - **ICT Trainer** at Powervision Consultancy (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ict-trainer-powervision-consultancy/
+
+## 2026-11-14 16:19 UTC — 1 new job(s)
+
+- **Information Systems Auditor** at GDC SACCO Society Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-systems-auditor-gdc-sacco-society-limited/

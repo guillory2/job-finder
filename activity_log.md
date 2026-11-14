@@ -7530,3 +7530,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/trainers-ict-university-of-embu
 - **Assistant ICT Officer (Instructional Designer)** at University of Embu (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/assistant-ict-officer-instructional-designer-university-of-embu
+
+## 2026-11-14 08:23 UTC — 2 new job(s)
+
+- **Technical Lead** at Abacus (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technical-lead-abacus/
+- **ICT Trainer** at Powervision Consultancy (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-trainer-powervision-consultancy/

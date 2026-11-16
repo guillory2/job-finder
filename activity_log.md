@@ -7542,3 +7542,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Information Systems Auditor** at GDC SACCO Society Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-systems-auditor-gdc-sacco-society-limited/
+
+## 2026-11-16 12:21 UTC — 3 new job(s)
+
+- **Data Analyst** at African Management Institute (AMI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-african-management-institute-ami-1
+- **Hardware & Embedded Systems Engineer** at Data Integrated Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/hardware-embedded-systems-engineer-data-integrated-limited/
+- **Internet Protocol Engineer** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/internet-protocol-engineer-liquid-intelligent-technologies/

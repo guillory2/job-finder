@@ -7551,3 +7551,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/hardware-embedded-systems-engineer-data-integrated-limited/
 - **Internet Protocol Engineer** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/internet-protocol-engineer-liquid-intelligent-technologies/
+
+## 2026-11-16 23:11 UTC — 4 new job(s)
+
+- **Lecturer/ Assistant Professor in Machine Learning and Big Data/ Data Science** at United States International University - USIU Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lecturer-assistant-professor-in-machine-learning-and-big-data-data-science-united-states-international-university-usiu-africa
+- **Sacco Head of ICT And Innovation** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sacco-head-of-ict-and-innovation-co-operative-bank-of-kenya
+- **Senior Data Engineer** at African Management Institute (AMI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-engineer-african-management-institute-ami/
+- **Senior Analytics Engineer** at African Management Institute (AMI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-analytics-engineer-african-management-institute-ami/

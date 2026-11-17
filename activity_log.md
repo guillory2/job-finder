@@ -7562,3 +7562,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-data-engineer-african-management-institute-ami/
 - **Senior Analytics Engineer** at African Management Institute (AMI) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-analytics-engineer-african-management-institute-ami/
+
+## 2026-11-17 15:14 UTC — 3 new job(s)
+
+- **Contract Support Divisions - Information Communication & Technology (ICT) Division** at Kenya Institute for Public Policy Research and Analysis (KIPPRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/contract-support-divisions-information-communication-technology-ict-division-kenya-institute-for-public-policy-research-and-analysis-kippra
+- **Submit CVs – New Recruitment** at United States International University – USIU Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-united-states-international-university-usiu-africa-5/
+- **Lecturer – Computer Science** at The East African University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lecturer-computer-science-east-african-university/

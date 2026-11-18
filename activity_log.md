@@ -7571,3 +7571,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-united-states-international-university-usiu-africa-5/
 - **Lecturer – Computer Science** at The East African University (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/lecturer-computer-science-east-african-university/
+
+## 2026-11-18 14:52 UTC — 6 new job(s)
+
+- **Computer Science /ICT Trainer – 2 Posts** at Machakos Institute of Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/computer-science-ict-trainer-2-posts-machakos-institute-of-technology
+- **ICT Assistant III** at The Public Procurement Regulatory Authority (PPRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistant-iii-the-public-procurement-regulatory-authority-ppra
+- **ICT Officer II** at The Public Procurement Regulatory Authority (PPRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-the-public-procurement-regulatory-authority-ppra
+- **Assistant ICT** at Session Blue Contractors (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-ict-session-blue-contractors
+- **Information Technology Supervisor** at Twyford Tile (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-supervisor-twyford-tile/
+- **Construction Program Manager** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/construction-program-manager-victory-farms/

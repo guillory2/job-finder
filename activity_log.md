@@ -7586,3 +7586,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/information-technology-supervisor-twyford-tile/
 - **Construction Program Manager** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/construction-program-manager-victory-farms/
+
+## 2026-11-19 14:59 UTC — 6 new job(s)
+
+- **ICT Assistant** at Vision Afrika DT Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-assistant-vision-afrika-dt-ltd
+- **ICT Risk & Cyber Security Officer** at PACIS Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-risk-and-cyber-security-officer-pacis-insurance
+- **ICT Support Technician, Outreach Administration** at Aga Khan University Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-support-technician-outreach-administration-aga-khan-university-hospital
+- **Head of Workplace Engineering** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-workplace-engineering-m-kopa-solar/
+- **Data Acquisition Engineer** at Spiro (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-acquisition-engineer-spiro/
+- **Product Manager – Employee Digital Experience & Platforms** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/product-manager-employee-digital-experience-platforms-safaricom-kenya/

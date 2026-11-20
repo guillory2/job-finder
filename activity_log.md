@@ -7610,3 +7610,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-engineer-and-applications-officer-caritas-mfb
 - **ICT Assistant** at Vision Afrika DT Ltd (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ict-assistant-vision-afrika-dt-ltd/
+
+## 2026-11-20 22:30 UTC — 2 new job(s)
+
+- **Clinical Analyst** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/clinical-analyst-solvo-global/
+- **Senior Software Developer** at Palladium International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-developer-palladium-international-2/

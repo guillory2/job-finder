@@ -7601,3 +7601,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-acquisition-engineer-spiro/
 - **Product Manager – Employee Digital Experience & Platforms** at Safaricom Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/product-manager-employee-digital-experience-platforms-safaricom-kenya/
+
+## 2026-11-20 14:40 UTC — 3 new job(s)
+
+- **Operations Admin & Canteen Data Analyst** at BURN (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/operations-admin-and-canteen-data-analyst-burn
+- **Software Engineer & Applications Officer** at Caritas MFB (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-and-applications-officer-caritas-mfb
+- **ICT Assistant** at Vision Afrika DT Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-assistant-vision-afrika-dt-ltd/

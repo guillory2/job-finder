@@ -7622,3 +7622,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Software Engineer & Applications Officer** at Caritas MFB (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/software-engineer-applications-officer-caritas-mfb/
+
+## 2026-11-21 20:22 UTC — 3 new job(s)
+
+- **Infrastructure & Security Engineer** at Kopo Kopo Inc (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/infrastructure-security-engineer-kopo-kopo-inc/
+- **Manager, IT Security** at Britam (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-security-britam/
+- **Graduate Aquaculture Learning and Training (GALT Cohort 10)** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/graduate-aquaculture-learning-training-galt-cohort-10-victory-farms/

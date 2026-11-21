@@ -7617,3 +7617,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/clinical-analyst-solvo-global/
 - **Senior Software Developer** at Palladium International (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-software-developer-palladium-international-2/
+
+## 2026-11-21 14:01 UTC — 1 new job(s)
+
+- **Software Engineer & Applications Officer** at Caritas MFB (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-applications-officer-caritas-mfb/

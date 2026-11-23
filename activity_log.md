@@ -7631,3 +7631,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-security-britam/
 - **Graduate Aquaculture Learning and Training (GALT Cohort 10)** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/graduate-aquaculture-learning-training-galt-cohort-10-victory-farms/
+
+## 2026-11-23 16:58 UTC — 2 new job(s)
+
+- **Lead Analyst - Data Operations** at Sun King (Formerly Greenlight Planet) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-analyst-data-operations-greenlight-planet-2
+- **DevOps Engineer** at Talent Match Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-talent-match-africa

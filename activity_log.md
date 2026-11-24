@@ -7638,3 +7638,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/lead-analyst-data-operations-greenlight-planet-2
 - **DevOps Engineer** at Talent Match Africa (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/devops-engineer-talent-match-africa
+
+## 2026-11-24 14:30 UTC — 2 new job(s)
+
+- **Head of ICT (Parklands)** at Christ Is the Answer Ministries (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-ict-parklands-christ-is-the-answer-ministries
+- **Attachment/ Internship- ICT** at Kenya Revenue Authority (KRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/attachment-ict-kenya-revenue-authority-kra-1

@@ -7645,3 +7645,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/head-of-ict-parklands-christ-is-the-answer-ministries
 - **Attachment/ Internship- ICT** at Kenya Revenue Authority (KRA) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/attachment-ict-kenya-revenue-authority-kra-1
+
+## 2026-11-25 10:46 UTC — 7 new job(s)
+
+- **DevOps Engineer** at Kiwami Tech Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-kiwami-tech-solutions-ltd
+- **Attachment/ Internship- ICT** at Kenya Revenue Authority (KRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/attachment-internship-ict-kenya-revenue-authority-kra
+- **Customer Service and Digital Marketing Assistant** at Zurid ICT (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/customer-service-and-digital-marketing-assistant-zurid-ict
+- **Assistant Manager, Data Engineer** at I&M Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-manager-data-engineer-im-bank/
+- **Senior Associate, Insurance Innovation** at Pula (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-associate-insurance-innovation-pula/
+- **Infrastructure and Security Sales Lead** at Renga Technologies Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/infrastructure-security-sales-lead-renga-technologies-limited/
+- **Head of ICT (Parklands)** at Christ Is the Answer Ministries (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-ict-parklands-christ-answer-ministries/

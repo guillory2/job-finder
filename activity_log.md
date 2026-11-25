@@ -7662,3 +7662,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/infrastructure-security-sales-lead-renga-technologies-limited/
 - **Head of ICT (Parklands)** at Christ Is the Answer Ministries (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-ict-parklands-christ-answer-ministries/
+
+## 2026-11-25 20:55 UTC — 7 new job(s)
+
+- **Faculty IT, Computer Science, Software Engineering, Data Science And Mathematics-Senior Lecturers/Lecturers** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/faculty-it-computer-science-software-engineering-data-science-and-mathematics-senior-lecturers-lecturers-zetech-university
+- **Faculty IT, Computer Science, Software Engineering, Data Science And Mathematics-Tutorial Fellows** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/faculty-it-computer-science-software-engineering-data-science-and-mathematics-tutorial-fellows-zetech-university
+- **Diploma In ICT/IT Internship Nairobi** at Kenya Medical Research - KEMRI (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/diploma-in-ict-it-internship-nairobi-kemya-medical-research-kemri
+- **Diploma In ICT or IT Internship Kisumu** at Kenya Medical Research - KEMRI (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/diploma-in-ict-or-it-internship-kisumu-kemya-medical-research-kemri-1
+- **Incubation Foreman** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/incubation-foreman-victory-farms-2/
+- **Health, Safety & Environment (HSE) Manager** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/health-safety-environment-hse-manager-victory-farms/
+- **Construction Manager** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/construction-manager-victory-farms/

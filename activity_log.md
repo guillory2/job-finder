@@ -7679,3 +7679,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/health-safety-environment-hse-manager-victory-farms/
 - **Construction Manager** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/construction-manager-victory-farms/
+
+## 2026-11-26 13:25 UTC — 6 new job(s)
+
+- **Information Communication Technology (ICT) Officer I** at County Assembly Of Machakos (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-communication-technology-ict-officer-i-county-assembly-of-machakos
+- **ICT Trainer** at Kenya Institute of Social Work and Community Development (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-trainer-kenya-institute-of-social-work-and-community-development
+- **Information and Communications Technology (ICT) Intern** at Population Services International (PSI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-and-communications-technology-ict-intern-population-services-international-psi
+- **Post Of Deputy Director ICT** at South Eastern Kenya University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/post-of-deputy-director-ict-south-eastern-kenya-university
+- **Principal Research Scientist and Director of Health Research** at Innovations for Poverty Action (IPA) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-research-scientist-director-health-research-innovations-poverty-action-ipa/
+- **Business Solutions- Senior Associate** at PricewaterhouseCoopers (PwC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-solutions-senior-associate-pricewaterhousecoopers-pwc/

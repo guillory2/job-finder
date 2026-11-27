@@ -7694,3 +7694,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/principal-research-scientist-director-health-research-innovations-poverty-action-ipa/
 - **Business Solutions- Senior Associate** at PricewaterhouseCoopers (PwC) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-solutions-senior-associate-pricewaterhousecoopers-pwc/
+
+## 2026-11-27 15:55 UTC — 4 new job(s)
+
+- **Data Analyst** at Mount Kenya University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-mount-kenya-university
+- **Senior Solution Architect — ICT Projects** at Baran Telecom Networks Kenya Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-solution-architect-ict-projects-baran-telecom-networks-kenya-limited
+- **Technical Project Manager / Lead — ICT Projects** at Baran Telecom Networks Kenya Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/technical-project-manager-lead-ict-projects-baran-telecom-networks-kenya-limited
+- **Submit CVs – Latest Recruitment** at Britam (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-britam-3/
